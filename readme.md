@@ -1,4 +1,4 @@
-Currently enrolled in a Web Development DCS (Diploma of Collegial Studies), I am building experience and skills in:
+Currently Web Developer at PlanHub.ca, I create web interfaces and worked with:
 
   • Front-End: React, Angular, JavaScript, CSS, Redux
   • Back-End: NodeJS, PHP, Laravel, Symfony, MySQL
