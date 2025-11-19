@@ -1,7 +1,7 @@
-Currently Web Developer at PlanHub.ca, I create web interfaces and worked with: 
+Software Engineer at Audette Analytics, I create web app and work with: 
 
   • Front-End: React, TypeScript, Redux, JavaScript, CSS   
-  • Back-End: NodeJS, PHP, Laravel, Symfony, MySQL     
+  • Back-End: Python, NodeJS, PHP, Laravel, Symfony, MySQL     
   • Mac/Linux/Windows and Apache   
  
 
